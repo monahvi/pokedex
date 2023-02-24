@@ -5,6 +5,8 @@ import CaughtPokemon from "./Components/CaughtPokemon";
 
 
 const App = () => {
+
+
   return (
   <div>
     <Logo />
